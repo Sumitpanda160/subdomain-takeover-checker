@@ -101,3 +101,11 @@ The tool should only be used on authorized targets.
 Sumit Kumar Panda
 
 B.Tech Information Technology
+
+## 5-Line Summary
+
+1. Developed a Python-based Subdomain Takeover Checker.
+2. Used Requests for HTTP response analysis.
+3. Performed DNS resolution checks on subdomains.
+4. Detected potential takeover indicators from HTTP responses.
+5. Saved scan results in takeover_targets.txt.
